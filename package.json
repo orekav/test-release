@@ -1,0 +1,8 @@
+{
+  "name": "test-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:orekav/test-release.git",
+  "author": "Nicolás Vaquero <nicolas.vaquero@sky.uk>",
+  "license": "MIT"
+}
